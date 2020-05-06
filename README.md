@@ -15,6 +15,17 @@
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 
+para rodar a aplicação:
+```bash
+  yarn dev:server
+```
+
+para rodar os testes automatizados:
+
+```bash
+yarn test
+```
+
 <br>
 <h4>
 Made with 💜️ by Rocketseat
